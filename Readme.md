@@ -7,7 +7,7 @@ It supports Unicode, so it works across multiple languages (English, Russian, Ja
 
 ## Requirements
 
-- PHP 8.0+
+- PHP 8.2+
 
 ---
 
